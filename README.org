@@ -1,0 +1,4 @@
+# -*- mode: org; coding: utf-8-unix; fill-column: 80 -*-
+#+STARTUP: hidestars showall
+* Hello, Paul!
+  This repository contains your Emacs configuration files.
